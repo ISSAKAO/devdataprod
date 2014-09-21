@@ -36,14 +36,14 @@ The Shiny application in question is entirely up to you. However, if you're havi
 
 The Slidy presentation is within the "presentation" directory.
 
-http://ISSAKAO.github.io/devdataprod/#1
+http://nickwallen.github.io/devdataprod-project/#1
 
 The presentation can be published to Github with the following command.  Ensure that SSH access has been established to Github using these instructions; 
 
 https://help.github.com/articles/error-permission-denied-publickey.
 
 ```
-publish(user = "ISSAKAO", repo = "devdataprod")
+publish(user = "nickwallen", repo = "devdataprod-project")
 ```
 
 ##### Instructions
